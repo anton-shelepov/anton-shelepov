@@ -5,6 +5,10 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=anton-shelepov&background=0d1117&border=30363d&ring=58a6ff&fire=58a6ff&currStreakNum=fff&sideNums=fff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e" />
 </p>
 
+<br/>
+<br/>
+
+
 <p align="center">
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -14,7 +18,11 @@
 <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
 <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
-</P
+</p>
 
-
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=anton-shelepov" />
+</p>
+
+
+
