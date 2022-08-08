@@ -1,8 +1,8 @@
 <img src="https://github.com/anton-shelepov/anton-shelepov/blob/main/assets/gh-title.jpg?raw=true" />
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anton-shelepov&layout=compact&theme=merko&langs_count=10&title_color=58a6ff&border_color=30363d&border_radius=5&text_color=8b949e&bg_color=0d1117&custom_title=Anton%20Shelepov's%20languages%20stats&style=centerme&card_width=445)](https://github.com/anuraghazra/github-readme-stats)" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=anton-shelepov&background=0d1117&border=30363d&ring=58a6ff&fire=58a6ff&currStreakNum=fff&sideNums=fff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anton-shelepov&layout=compact&theme=merko&langs_count=10&title_color=58a6ff&border_color=30363d&border_radius=5&text_color=8b949e&bg_color=0d1117&custom_title=Anton%20Shelepov's%20languages%20stats&style=centerme&card_width=445)](https://github.com/anuraghazra/github-readme-stats)" />
 </p>
 
 <br/>
