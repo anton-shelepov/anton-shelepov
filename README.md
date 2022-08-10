@@ -1,4 +1,4 @@
-<img src="https://github.com/anton-shelepov/anton-shelepov/blob/main/assets/gh-title.jpg?raw=true" />
+<img src="https://github.com/anton-shelepov/anton-shelepov/blob/main/assets/gh-title-react.jpg?raw=true" />
 
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=anton-shelepov&background=0d1117&border=30363d&ring=58a6ff&fire=58a6ff&currStreakNum=fff&sideNums=fff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e" />
